@@ -9,7 +9,7 @@ export function Remote1Content() {
     <div className="space-y-4">
       <p className="text-lg">{REMOTE1_TEXT}</p>
       <Button onClick={() => console.log('Remote 1 clicked')}>
-        Remote 1 Button
+        Remote 1 Buttons are working!
       </Button>
     </div>
   );
